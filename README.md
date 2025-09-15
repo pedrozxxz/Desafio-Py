@@ -142,3 +142,4 @@ Certifique-se de digitar números válidos para quantidades
 
 📄 Licença
 Este projeto foi desenvolvido como parte de um desafio Python para fins educacionais.
+
